@@ -6,9 +6,9 @@
 
 <br/>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ilgolf&show_icons=true&theme=blue"/>
-</p>
+
+<img src="https://github-readme-stats.vercel.app/api?username=ilgolf&show_icons=true&theme=blue"/>
+
  
 <br/>
 
@@ -20,12 +20,7 @@
 <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Javat&logoColor=white"/></a> &nbsp
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/></a> &nbsp</p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lob-dev&layout=compact&theme=cobalt"/>
-</p>
-
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lob-dev&layout=compact&theme=cobalt"/>
 </br>
-<p align="center">
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/generate_badge?boj=ilgolf)](https://solved.ac/ilgolf)
-</p>

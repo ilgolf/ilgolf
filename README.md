@@ -20,12 +20,12 @@
 
 </br>
 
-##Status
+<h3>Status</h3>
 
 <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ilgolf&layout=compact&theme=blue"/></p>
 
 </br>
 
-##CodingTest
+<h3>CodingTest</h3>
 
 [![Solved.ac프로필](http://mazassumnida.wtf/api/generate_badge?boj=ilgolf)](https://solved.ac/ilgolf)

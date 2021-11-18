@@ -6,9 +6,9 @@
 
 <br/>
 
+<p align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=ilgolf&show_icons=true&theme=blue"/>
-
+<img src="https://github-readme-stats.vercel.app/api?username=ilgolf&show_icons=true&theme=blue"/></p>
  
 <br/>
 
@@ -23,5 +23,5 @@
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lob-dev&layout=compact&theme=cobalt"/>
 
 </br>
-
+                                                                                                             
 [![Solved.ac프로필](http://mazassumnida.wtf/api/generate_badge?boj=ilgolf)](https://solved.ac/ilgolf)

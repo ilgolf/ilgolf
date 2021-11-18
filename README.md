@@ -26,4 +26,6 @@
 
 </br>
 
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=ilgof)](https://solved.ac/ilgolf/)
+[![Solved.ac
+프로필](http://mazassumnida.wtf/api/generate_badge?boj=ilgolf)](https://solved.ac/ilgolf)
+

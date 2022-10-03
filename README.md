@@ -6,9 +6,10 @@
 
 ### 👦 개발 철학
 
-저는 효과적인 프로그램 유연하고 확장에 용이한 프로그램을 선호합니다. 그렇기에 오브젝트나 자바 객체지향의 원리와 이해라는 책을 스터디를 통해 깊게 다루고 있고, 객체지향을 
-제가 지향하는 프로그래밍 철학으로 자리매김 하였습니다. 또한 저는 프로젝트를 진행하더라도 여러게에 단순 기능이 구현된 프로젝트가 아닌 동작 방식과 흐름을 이해하고 깊은 고민이 묻어난
-프로그램을 개발하고 싶습니다.
+개발하면서 다양하게 발생하는 문제들을 기술적으로 해결하고 고민해나가며 제 코드를 발전시키는 것을 좋아하는 개발자입니다. 기술을 사용해보는 것으로 끝나는 것이 아닌 기술의 동작 원리나 흐름을 학습하며 그에 맞게 쓰기 위해 노력하며 단순히 정답만을 찾는 것이 아닌 여러 해결책에 대해 열어놓고 고민하며 적합한 해결책으로 문제를 해결해나가려고 노력합니다.
+또한 다양한 개발자들과의 커뮤니케이션을 이어나가면서 제가 해보지 못한 경험들을 간접적으로 대화를 통해 겪어보며 같이 고민해나가는 것 또한 좋아하여 현재 커뮤니티 활동도 하고 있습니다.
+
+현재 관심 있는 기술은 Spring webFlux 같은 reactive programming과 CI/CD 구축을 위한 AWS Jenkins에 관심을 갖고 있고 kotlin언어에 대한 관심도 갖고 있어 현재 학습하고 있습니다.
 
 ------------------------------------------------------------------------------------------------------------------------------
 
@@ -24,13 +25,17 @@
 <h3><b>🛠 Tech Stack 🛠</b></h3>
 </br>
 
-<img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/Springboot-6DB33F?style=flat-square&logo=Springboot&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Javat&logoColor=white"/></a> 
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=Hibernate&logoColor=white">
-<img src="https://img.shields.io/badge/Springsecurity-6DB33F?style=for-the-badge&logo=Springsecurity&logoColor=white">
+Back-End
 
+- Java (openJDK 11)
+- Spring boot 
+- JPA 
+- Spring Security
+
+DataBase
+
+- MySQL (5.7.x, 8.0.x)
+- Redis
 
 
 </br>

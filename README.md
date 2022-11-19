@@ -28,6 +28,8 @@
 Back-End
 
 - Java (openJDK 11)
+- Kotlin
+- Gradle
 - Spring boot 
 - JPA 
 - Spring Security
@@ -36,6 +38,12 @@ DataBase
 
 - MySQL (5.7.x, 8.0.x)
 - Redis
+
+Infra
+- AWS
+- Ansible
+- Docker
+- Jenkins
 
 
 </br>

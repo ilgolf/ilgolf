@@ -15,7 +15,8 @@
 
 ### 경험해 보고 싶은 기술
 
-현재 인증 인가에 대한 관심이 많으며 Security와 JWT를 깊게 학습하고 내부를 이해하고 싶습니다. 또한 Database에 대한 깊은 이해 외에도 다양한 기술을 접하면서 어떠한 비즈니스 문제도 더 좋은 성능으로 풀어내고 싶습니다.
+많은 트래픽을 경험해보고 싶으며 트래픽 처리에 유용한 기술들인 spring webflux 이러한 트래픽을 모니터링하기 위한 로그 수집 툴 프로메테우스 데이터 시각화 도구인 그라파나 등을 경험해보고싶습니다. 
+
 <br/>
 
 <img src="https://github-readme-stats.vercel.app/api?username=ilgolf&show_icons=true&theme=blue"/>

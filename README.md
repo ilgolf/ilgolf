@@ -24,9 +24,6 @@
  
 <br/>
 
-<h3><b>🛠 Tech Stack 🛠</b></h3>
-</br>
-
 <h3>Status</h3>
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ilgolf&layout=compact&theme=blue"/>

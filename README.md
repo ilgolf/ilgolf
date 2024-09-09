@@ -23,13 +23,15 @@
 3. [Side effect를 최소화 하기위한 Defensive Copy](https://golf-dev.tistory.com/90)
 4. [트래픽이 몰리는 상황에서 병목 해결하기](https://golf-dev.tistory.com/75)
 
-<br/>
+------------------------------------------------------------------------------------------------------------------------------
 
 #### Contributor
 
 - [LINE] JDSL Contributor
 - [JDSL LOCAL DATETIME Support](https://github.com/line/kotlin-jdsl/pull/639/files)
 - [JDSL Docs 가독성 개선](https://github.com/line/kotlin-jdsl/issues/568)
+
+------------------------------------------------------------------------------------------------------------------------------
 
 ### Presentation
 

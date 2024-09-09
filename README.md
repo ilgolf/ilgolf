@@ -24,3 +24,14 @@
 4. [트래픽이 몰리는 상황에서 병목 해결하기](https://golf-dev.tistory.com/75)
 
 <br/>
+
+#### Contributor
+
+- [LINE] JDSL Contributor
+- [JDSL LOCAL DATETIME Support](https://github.com/line/kotlin-jdsl/pull/639/files)
+- [JDSL Docs 가독성 개선](https://github.com/line/kotlin-jdsl/issues/568)
+
+### Presentation
+
+- [비동기로부터 우리를 구원해줄 Coroutine](https://www.youtube.com/watch?v=w_kRlfhNb3c&t=1252s)
+(Coroutine의 기초 부터 왜 사용하고 어떤 상황에서 써야하는지에 대한 전반적인 내용 그리고 Coroutine에 대한 오해를 해소해주는 내용을 갖고 발표)

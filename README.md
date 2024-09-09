@@ -25,7 +25,7 @@
 
 ------------------------------------------------------------------------------------------------------------------------------
 
-#### Contributor
+### Contributor
 
 - [LINE] JDSL Contributor
 - [JDSL LOCAL DATETIME Support](https://github.com/line/kotlin-jdsl/pull/639/files)
